@@ -60,13 +60,4 @@ Cloud, DevOps, and new web tech.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravan-Sulikeri&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan-Sulikeri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan-Sulikeri&layout=compact" />
-</p>
-
----
-
 ⭐️ Thanks for visiting! ⭐️
