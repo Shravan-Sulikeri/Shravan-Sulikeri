@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Shravan Sulikeri 👋</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/shravan-sulikeri">LinkedIn</a> •
-  <a href="mailto:youremail@example.com">Email</a> •
+  <a href="mailto:shravan.sulikeri@gmail.com">Email</a> •
   <a href="https://github.com/Shravan-Sulikeri/portfolio">Portfolio</a>
 </p>
 
@@ -22,7 +22,7 @@ Sound Swipe App – helping people discover new music.
 Cloud, DevOps, and new web tech.
 
 📫 **Contact:**  
-[LinkedIn](https://www.linkedin.com/in/shravan-sulikeri) | email@example.com
+[LinkedIn](https://www.linkedin.com/in/shravan-sulikeri) | shravan.sulikeri@gmail.com
 
 ---
 
