@@ -1,63 +1,62 @@
-<h2 align="center">Hi, I'm Shravan Sulikeri 👋</h2>
+# 👋 Hey, I'm Shravan Sulikeri  
+
+🚀 **Aspiring Software / Systems / Data Engineer | Cloud & DevOps Enthusiast | Databricks & AI Builder**  
+🎓 BS in Computer Science @ UNC Charlotte (Graduating Aug 2025) | Former Systems Engineer Intern @ First Citizens Bank  
+
+---
+
+## 💡 About Me  
+
+- 💻 Passionate about **Data Engineering, Cloud Automation, and AI-driven Apps**  
+- 🛠️ Experienced in **Azure DevOps CI/CD**, **PowerShell Automation**, **Nexthink Dashboards**, and **C# DLL development**  
+- 🏗️ Built **Spotify AI Music Discovery App** (SoundSwipe) + **F1 Analytics Web App**  
+- ☁️ Exploring **Databricks**, **Delta Lake**, **Unity Catalog**, and **MLflow** to build end-to-end pipelines  
+- 🏏 Cricket Player & Fitness Enthusiast — currently on a journey from 260 lbs ➝ 190 lbs 💪  
+
+---
+
+## 🔧 Tech Stack  
+
+**Languages & Frameworks:**  
+`Python` • `C#` • `C++` • `Java` • `JavaScript` • `Node.js` • `React` • `TailwindCSS`  
+
+**Cloud & DevOps:**  
+`Azure DevOps` • `GitHub Actions` • `Docker` • `CI/CD` • `PowerShell` • `Bash`  
+
+**Data & AI:**  
+`Databricks` • `PySpark` • `Delta Lake` • `MLflow` • `TensorFlow` • `MongoDB` • `SQL`  
+
+**Tools & Platforms:**  
+`VS Code` • `Postman` • `Nexthink` • `Power BI` • `Git` • `Linux`  
+
+---
+
+## 🏆 Featured Projects  
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🎵 SoundSwipe](https://github.com/Shravan-Sulikeri/sound-swipe-app) | AI-powered music discovery app with swipe-to-like interface, adds liked songs to Spotify playlist | React, Node.js, MongoDB, Spotify API |
+| [🏎️ F1 Analytics](https://github.com/Shravan-Sulikeri/F1-Analytics) | Interactive dashboards & AI model to predict F1 race results, qualifying positions, betting insights | React, Databricks, MLflow |
+| [📊 Endpoint Latency Dashboard](#) | Built Power BI dashboards for 20k+ endpoints, used percentile logic to detect anomalies | Power BI, NQL, Azure DevOps |
+| [⚙️ Nexthink Automation DLL](#) | Custom C# DLL for Nexthink Remote Actions, extended PowerShell automation | C#, PowerShell, Nexthink |
+
+---
+
+## 📈 GitHub Stats  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/shravan-sulikeri">LinkedIn</a> •
-  <a href="mailto:shravan.sulikeri@gmail.com">Email</a> •
-  <a href="https://github.com/Shravan-Sulikeri/portfolio">Portfolio</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ssuliker&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssuliker&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
-🌟 **About Me**
+## 📫 Connect With Me  
 
-I'm a passionate developer with experience in:
-- **Python, Java, TypeScript, HTML**
-- Full Stack Development
-- Data Engineering
-- Creative coding and music apps
-
-🔭 **Currently working on:**  
-Sound Swipe App – helping people discover new music.
-
-🌱 **Learning:**  
-Cloud, DevOps, and new web tech.
-
-📫 **Contact:**  
-[LinkedIn](https://www.linkedin.com/in/shravan-sulikeri) | shravan.sulikeri@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/shravansulikeri)  
+- 📝 [Portfolio Website](https://your-portfolio-link.com) *(coming soon)*  
+- ✉️ shravansulikeri@gmail.com  
 
 ---
 
-## 🚀 Featured Projects
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Shravan-Sulikeri/sound-swipe-app"><b>Sound Swipe App 🎵</b></a><br>
-      <i>A web tool to find new music. Built with Python. 21 stars.</i>
-    </td>
-    <td>
-      <a href="https://github.com/Shravan-Sulikeri/PlaylistManager"><b>Playlist Manager 📂</b></a><br>
-      <i>Simple Java console app to manage and create MP3 playlists.</i>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Shravan-Sulikeri/portfolio"><b>Portfolio Website 🌐</b></a><br>
-      <i>Personal website and resume built in HTML/JS.</i>
-    </td>
-    <td>
-      <a href="https://github.com/Shravan-Sulikeri/WelathNav"><b>WelathNav 💰</b></a><br>
-      <i>Financial navigation tool (work in progress).</i>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧰 Languages & Tools
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
----
-
-⭐️ Thanks for visiting! ⭐️
+⭐ **Fun Fact:** I love combining **AI + data pipelines** to build real-world, impactful tools that make life easier.
