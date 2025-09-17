@@ -11,10 +11,10 @@
 
 ## 💡 About Me  
 
-- 💻 Passionate about **Data Engineering, Cloud Automation, and AI-driven Apps**  
+- 💻 Passionate about **Data Engineering, AI/ML Systems, and Scalable Cloud Apps**  
 - 🛠️ Skilled in **Azure DevOps CI/CD**, **PowerShell Automation**, **Nexthink Dashboards**, and **C# DLL development**  
 - 🏗️ Creator of **SoundSwipe** (Spotify AI Music Discovery App) + **CareSight** (AI-powered Healthcare Risk Prediction)  
-- ☁️ Learning **Databricks**, **Delta Lake**, **Unity Catalog**, and **MLflow** to build scalable pipelines  
+- ☁️ Building **Databricks pipelines**, experimenting with **MLflow**, and deploying **real-time prediction services**  
 
 ---
 
@@ -50,26 +50,27 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🎵 **SoundSwipe**](https://github.com/Shravan-Sulikeri/sound-swipe-app) | AI-powered music discovery app with swipe-to-like interface, adds liked songs to Spotify playlist | React, Node.js, MongoDB, Spotify API |
-| [🏥 **CareSight**](#) | AI-powered healthcare platform that predicts patient readmission risk & provides real-time risk dashboards | Node.js, Next.js, MongoDB, TensorFlow/Keras, Google Cloud Functions |
+| [🏥 **CareSight**](#) | AI-powered healthcare platform predicting patient readmission risk & providing real-time risk dashboards | Node.js, Next.js, MongoDB, TensorFlow/Keras, Google Cloud Functions |
 | [📊 **Endpoint Latency Dashboard**](#) | Power BI dashboards for 20k+ endpoints, using percentile logic for anomaly detection | Power BI, NQL, Azure DevOps |
 | [⚙️ **Nexthink Automation DLL**](#) | Custom C# DLL enabling advanced Nexthink Remote Action automation | C#, PowerShell, Nexthink |
 
 ---
 
-## 📈 GitHub Stats  
+## 💼 Key Highlights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravan-Sulikeri&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan-Sulikeri&theme=tokyonight" height="150" />
-</p>
+- 🔧 Built **Power BI dashboards** analyzing latency for **20k+ endpoints**, reducing incident detection time by **35%**  
+- ⚙️ Automated **PowerShell RA deployments** with Azure DevOps, saving **10+ engineer-hours/month**  
+- 🧠 Designed ML pipelines (Logistic Regression, Random Forest, TensorFlow/Keras) for CareSight, improving prediction accuracy by **15%**  
+- 🎵 Developed SoundSwipe, a full-stack Spotify-powered app with personalized recommendations & swipe UI  
 
 ---
 
-## 🔥 Currently Learning  
+## 🚀 Currently Working On  
 
-- 📚 **Databricks Data Engineer Associate** Certification Prep  
-- ⚡ Advanced **CI/CD & Infrastructure Automation**  
-- 🤖 **MLflow** + **AI-driven healthcare prediction models**  
+- 🏥 Scaling **CareSight** by adding model monitoring & retraining pipelines  
+- 🎵 **SoundSwipe v2** with collaborative filtering + real-time recommendations  
+- ☁️ Building **Databricks Bronze-Silver-Gold pipelines** for open datasets  
+- 🤖 Experimenting with **LLM-powered AI assistants** for DevOps automation  
 
 ---
 
