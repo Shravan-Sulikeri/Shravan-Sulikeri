@@ -2,6 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shravan-Sulikeri&style=flat-square&color=blue)  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/shravansulikeri)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-success?logo=google-chrome)](https://studio--portfolio-pilot-fzvf5.us-central1.hosted.app/)  
 [![GitHub Followers](https://img.shields.io/github/followers/Shravan-Sulikeri?style=social)](https://github.com/Shravan-Sulikeri?tab=followers)
 
 🚀 **Software • Systems • Data Engineer in the Making**  
@@ -77,7 +78,7 @@
 ## 📫 Let's Connect  
 
 - 💼 [LinkedIn](https://linkedin.com/in/shravansulikeri)  
-- 🌐 Portfolio *(Coming Soon)*  
+- 🌐 [Portfolio Website](https://studio--portfolio-pilot-fzvf5.us-central1.hosted.app/)  
 - 📧 shravansulikeri@gmail.com  
 
 ---
