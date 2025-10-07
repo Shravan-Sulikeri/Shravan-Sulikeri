@@ -110,5 +110,34 @@ Iâ€™m passionate about bridging ML experimentation with real-world deployment â€
 [Email](shravan.sulikeri@gmail.com) 
 
 ---
+---
 
+GitHub Overview
+
+<p align="center">
+  <a href="https://github.com/Shravan-Sulikeri">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shravan-Sulikeri&theme=nord_dark" alt="GitHub Profile Summary" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shravan-Sulikeri">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shravan-Sulikeri&theme=nord_dark" alt="Repos per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shravan-Sulikeri&theme=nord_dark" alt="Most Commit Language" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shravan-Sulikeri">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shravan-Sulikeri&theme=nord_dark" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shravan-Sulikeri&theme=nord_dark&utcOffset=-5" alt="Commits by Time (UTC-5)" />
+  </a>
+</p>
+
+
+
+---
+
+---
+$
 Turning raw data into intelligent, automated, and production-grade ML systems.
