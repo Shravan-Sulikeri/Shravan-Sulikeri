@@ -6,7 +6,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Shravan-Sulikeri?style=social)](https://github.com/Shravan-Sulikeri?tab=followers)
 
 **Data • Machine Learning • Cloud Engineer**  
-B.S. in Computer Science @ UNC Charlotte (Aug 2025) | Former Systems Engineer Intern @ First Citizens Bank  
+B.S. in Computer Science @ UNC Charlotte (Aug 2025) | ML & DevOps Engineer @ Varsinix | Former Systems Engineer Intern @ First Citizens Bank  
 
 ---
 
@@ -26,6 +26,8 @@ I’m passionate about bridging ML experimentation with real-world deployment �
 ---
 
 ## Tech Stack  
+
+**Specialties:** MLOps • Data Engineering • LLM Automation • Cloud Analytics • CI/CD • DevOps Pipelines  
 
 ### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -48,21 +50,32 @@ I’m passionate about bridging ML experimentation with real-world deployment �
 
 ### Cloud, DevOps & Automation  
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FF0000?logo=oracle&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-A020F0?logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
-### Data & Visualization  
+
+### Data Engineering & Visualization  
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?logo=microsoft-azure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoft-sql-server&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-29B5E8?logo=delta&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks%20Workflows-FF3621?logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-Pipeline-blue)
+
 
 ---
 
@@ -72,44 +85,69 @@ I’m passionate about bridging ML experimentation with real-world deployment �
 |----------|--------------|------|
 | [**CareSight**](#) | AI-powered healthcare platform predicting patient readmission risk and visualizing results in real-time dashboards. | Next.js • Node.js • MongoDB • TensorFlow/Keras • Google Cloud |
 | [**SoundSwipe**](https://github.com/Shravan-Sulikeri/sound-swipe-app) | Spotify-powered AI music discovery app with swipe interface and playlist integration. | React • Node.js • MongoDB • Spotify API • TailwindCSS |
-| [**Used Car Price Prediction**](#) | Machine learning pipeline for predicting used car prices with interactive Streamlit analytics. | Python • Streamlit • LightGBM • CatBoost • Scikit-learn • Pandas |
+| [**Used Car Price Prediction**](https://github.com/Shravan-Sulikeri/used-car-price-predictor) | Machine learning pipeline for predicting used car prices with interactive Streamlit analytics. | Python • Streamlit • LightGBM • CatBoost • Scikit-learn • Pandas |
+| [**PantryPal AI**](https://github.com/Shravan-Sulikeri/PantryPal-AI) | AI-driven recipe recommender that minimizes food waste and personalizes meals using LLMs & USDA data. | Python • Supabase • OpenAI API • LangChain • React |
+| [**Global Data Observatory**](#) | Databricks Lakehouse platform integrating global economic, climate & energy datasets with medallion architecture. | Databricks • Delta Lake • PySpark • SQL |
+| [**MLOps Framework**](#) | Varsinix monorepo for model deployment with CI/CD, MLflow tracking, and containerized orchestration. | Docker • Kubernetes • MLflow • GitHub Actions • GCP |
 
 ---
 
 ## Certifications  
 
--  **Databricks Data Engineer Associate (In Progress)**   
--  **Oracle Cloud Infrastructure (OCI) Foundations Associate**  
--  **Nexthink NQL Certification**  
-  
+- ![Oracle](https://img.shields.io/badge/Oracle-Certified-red?logo=oracle&logoColor=white) Autonomous Database Cloud 2025 Certified Professional  
+- ![Oracle](https://img.shields.io/badge/Oracle-Certified-red?logo=oracle&logoColor=white) OCI 2025 Data Science Professional  
+- ![Oracle](https://img.shields.io/badge/Oracle-Certified-red?logo=oracle&logoColor=white) OCI 2025 Generative AI Professional  
+- ![Databricks](https://img.shields.io/badge/Databricks-AI%20Fundamentals-orange?logo=databricks&logoColor=white) Databricks Generative AI Fundamentals  
+- ![Databricks](https://img.shields.io/badge/Databricks-Fundamentals-orange?logo=databricks&logoColor=white) Databricks Fundamentals  
+
+---
+
+## Experience  
+
+**ML & DevOps Engineer – Varsinix** (Aug 2025 – Present)  
+- Engineered a monorepo-based MLOps framework using Docker, Kubernetes & GitHub Actions — accelerating model deployment by 40%.  
+- Designed Databricks ETL pipelines with MLflow & GCP, improving data processing speed by 55%.  
+- Automated model lifecycle, evaluation, and experiment tracking for reproducible ML workflows.  
+- Deployed CI/CD dashboards via Prometheus & Grafana, reducing release errors by 50%.  
+
+**Systems Engineer Intern – First Citizens Bank** (May 2025 – Aug 2025)  
+- Automated Nexthink Remote Actions via PowerShell & Azure DevOps, cutting remediation time by 25%.  
+- Built Power BI dashboards monitoring 20K+ endpoints and visualizing experience metrics.  
+- Authored NQL queries correlating endpoint events, improving root cause analysis by 35%.  
+- Partnered with IT to enhance Digital Employee Experience (DEX) through proactive automation.  
 
 ---
 
 ## Key Highlights  
 
-- Designed and deployed **Databricks ETL pipelines** with MLflow for reproducible ML experimentation.  
-- Built **Power BI dashboards** monitoring 20k+ endpoints, cutting incident detection time by 35%.  
-- Automated **PowerShell Remote Action** deployment using **Azure DevOps pipelines**, saving 10+ engineer-hours monthly.  
-- Engineered ML models (LightGBM, TensorFlow) for **CareSight**, improving accuracy by 15%.  
-- Developed **SoundSwipe**, a Spotify-integrated AI app with a real-time recommendation engine.  
+- Built **Databricks ML pipelines** improving deployment reproducibility and CI/CD standardization.  
+- Developed **AI-powered apps** like CareSight and SoundSwipe, enhancing analytics & personalization.  
+- Automated **endpoint remediation** workflows for enterprise systems with PowerShell and Azure DevOps.  
+- Designed **Power BI dashboards** for real-time analytics across 20K+ enterprise devices.  
+- Delivered **ML models (TensorFlow, LightGBM)** improving predictive accuracy by 15–30%.  
 
 ---
 
 ## Currently Working On  
 
-- Scaling **CareSight** with model retraining and monitoring pipelines.  
-- Building **SoundSwipe v2** with collaborative filtering and advanced personalization.  
-- Developing **Databricks Bronze–Silver–Gold pipelines** for open-source datasets.  
-- Experimenting with **LLM-powered DevOps assistants** for analytics automation.  
+- Scaling **CareSight** with automated retraining and monitoring pipelines.  
+- Building **SoundSwipe v2** with deep collaborative filtering and improved engagement logic.  
+- Developing **PantryPal AI** into a full-stack zero-waste meal recommendation platform.  
+- Expanding **Global Data Observatory** with open-source global indicators using Databricks & Delta Lake.  
+
+---
+
+## Recruiter Keywords  
+
+**Python** • **SQL** • **Databricks** • **Azure DevOps** • **MLflow** • **Docker** • **Power BI** • **TensorFlow** • **MLOps** • **LLMs** • **CI/CD** • **Data Engineering** • **ETL** • **PySpark** • **DevOps Automation**
 
 ---
 
 ## Connect With Me  
 
-[LinkedIn](https://linkedin.com/in/shravansulikeri)    
-[Email](shravan.sulikeri@gmail.com) 
+[LinkedIn](https://linkedin.com/in/shravansulikeri)  
+[Email](mailto:shravan.sulikeri@gmail.com)
 
----
 ---
 
 GitHub Overview
@@ -134,10 +172,6 @@ GitHub Overview
   </a>
 </p>
 
-
-
 ---
 
----
-$
 Turning raw data into intelligent, automated, and production-grade ML systems.
