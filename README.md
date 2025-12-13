@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shravan-Sulikeri&style=flat-square&color=0A66C2)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravansulikeri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-20C997?logo=google-chrome&logoColor=white)](https://studio--portfolio-pilot-fzvf5.us-central1.hosted.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-20C997?logo=google-chrome&logoColor=white)](https://shravan-sulikeri.vercel.app)
 [![GitHub Followers](https://img.shields.io/github/followers/Shravan-Sulikeri?style=social)](https://github.com/Shravan-Sulikeri?tab=followers)
 
 **Data • Machine Learning • Cloud Engineer**  
