@@ -83,12 +83,9 @@ I’m passionate about bridging ML experimentation with real-world deployment �
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [**CareSight**](#) | AI-powered healthcare platform predicting patient readmission risk and visualizing results in real-time dashboards. | Next.js • Node.js • MongoDB • TensorFlow/Keras • Google Cloud |
+| [**CareSight**](#) | AI-powered healthcare platform predicting patient readmission risk and visualizing results in real-time dashboards.  | Next.js • Node.js • MongoDB • TensorFlow/Keras • Google Cloud |
 | [**SoundSwipe**](https://github.com/Shravan-Sulikeri/sound-swipe-app) | Spotify-powered AI music discovery app with swipe interface and playlist integration. | React • Node.js • MongoDB • Spotify API • TailwindCSS |
-| [**Used Car Price Prediction**](https://github.com/Shravan-Sulikeri/used-car-price-predictor) | Machine learning pipeline for predicting used car prices with interactive Streamlit analytics. | Python • Streamlit • LightGBM • CatBoost • Scikit-learn • Pandas |
-| [**PantryPal AI**](https://github.com/Shravan-Sulikeri/PantryPal-AI) | AI-driven recipe recommender that minimizes food waste and personalizes meals using LLMs & USDA data. | Python • Supabase • OpenAI API • LangChain • React |
-| [**Global Data Observatory**](#) | Databricks Lakehouse platform integrating global economic, climate & energy datasets with medallion architecture. | Databricks • Delta Lake • PySpark • SQL |
-| [**MLOps Framework**](#) | Varsinix monorepo for model deployment with CI/CD, MLflow tracking, and containerized orchestration. | Docker • Kubernetes • MLflow • GitHub Actions • GCP |
+| [**F1 Dash**](https://github.com/Shravan-Sulikeri/f1-dash) | Full-stack F1 racing analytics platform with ML pipeline (0.99 AUC), DuckDB warehouse, and 61 engineered features for race predictions. | Python • DuckDB • React • Tailwind • Scikit-learn • FastF1 |
 
 ---
 
@@ -104,11 +101,14 @@ I’m passionate about bridging ML experimentation with real-world deployment �
 
 ## Experience  
 
-**ML & DevOps Engineer – Varsinix** (Aug 2025 – Present)  
-- Engineered a monorepo-based MLOps framework using Docker, Kubernetes & GitHub Actions — accelerating model deployment by 40%.  
-- Designed Databricks ETL pipelines with MLflow & GCP, improving data processing speed by 55%.  
-- Automated model lifecycle, evaluation, and experiment tracking for reproducible ML workflows.  
-- Deployed CI/CD dashboards via Prometheus & Grafana, reducing release errors by 50%.  
+**Data Engineer – Varsinix** (Aug 2025 – Present)  
+- Standardized the Varsinix monorepo and GitHub workflows, reducing onboarding time by 30% and CI inconsistencies by 25%.
+- Developed a reproducible evaluation pipeline for medical concept retrieval on 200k+ data samples, increasing the repeatability of
+  “Recall@K” metrics by 40%
+- Refactored Qdrant vector search and embedding alignment logic using Python, which reduced Artificial Neural Network evaluation
+  failures by 25% and stabilized retrieval outputs.
+- Defined and implemented Medallion Architecture standards (Bronze/Silver/Gold) and versioned naming conventions, improving
+  data lineage clarity and reducing schema drift by 45%.
 
 **Systems Engineer Intern – First Citizens Bank** (May 2025 – Aug 2025)  
 - Automated Nexthink Remote Actions via PowerShell & Azure DevOps, cutting remediation time by 25%.  
