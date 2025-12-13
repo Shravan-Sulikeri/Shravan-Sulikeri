@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-20C997?logo=google-chrome&logoColor=white)](https://shravan-sulikeri.vercel.app)
 [![GitHub Followers](https://img.shields.io/github/followers/Shravan-Sulikeri?style=social)](https://github.com/Shravan-Sulikeri?tab=followers)
 
-**Data Engineer | Machine Learning Engineer | MLOps**  
+**Data Engineer | Software Engineer | Data Analyst**  
 UNC Charlotte, B.S. Computer Science | Data Engineer @ Varsinix | Former Systems Engineer Intern @ First Citizens Bank
 
 ---
