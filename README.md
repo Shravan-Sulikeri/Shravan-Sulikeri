@@ -1,187 +1,169 @@
+<div align="center">
+
 # Shravan Sulikeri
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shravan-Sulikeri&style=flat-square&color=0A66C2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravansulikeri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-20C997?logo=google-chrome&logoColor=white)](https://shravan-sulikeri.vercel.app)
-[![GitHub Followers](https://img.shields.io/github/followers/Shravan-Sulikeri?style=social)](https://github.com/Shravan-Sulikeri?tab=followers)
+**Data Engineer · Software Engineer · Data Analyst**
 
-**Data Engineer | Software Engineer | Data Analyst**  
-UNC Charlotte, B.S. Computer Science | Data Engineer @ Varsinix | Former Systems Engineer Intern @ First Citizens Bank
+[![Portfolio](https://img.shields.io/badge/Portfolio-shravan--sulikeri.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://shravan-sulikeri.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shravan--sulikeri-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shravan-sulikeri)
+[![GitHub](https://img.shields.io/badge/GitHub-Shravan--Sulikeri-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shravan-Sulikeri)
+[![Email](https://img.shields.io/badge/Email-shravan.sulikeri@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shravan.sulikeri@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shravan-Sulikeri&style=flat&color=0A66C2&label=Profile+Views)](https://github.com/Shravan-Sulikeri)
+
+</div>
+
+---
+
+## About Me
+
+B.S. Computer Science, UNC Charlotte (Aug 2025). Currently building **clinical ML pipelines and retrieval systems** as a Junior Data Engineer at a healthcare AI startup in Cary, NC.
+
+I specialize in the full data lifecycle: ingestion, medallion architecture, embedding pipelines, vector search, and operational dashboards on GCP and Azure. I care about systems that are reproducible, observable, and production-ready.
+
+> **Open to:** New Grad Data Engineer, Software Engineer, and Data Analyst roles.
 
 ---
 
-## Summary
-
-I build **production-grade data and ML systems** end to end: ingestion, modeling, evaluation, deployment, and monitoring.
-
-- **Data engineering**: ETL, medallion architectures (Bronze–Silver–Gold), data quality, and lineage
-- **ML and retrieval**: embedding pipelines, evaluation harnesses, and scalable similarity search workflows
-- **MLOps and automation**: CI/CD, reproducible training and inference, model tracking, and operational dashboards
-- **Cloud analytics**: Databricks, Azure DevOps, MLflow, Power BI
-
-**Fastest way to evaluate my work:** Start with **F1 Dash** (data platform + ML) and **SoundSwipe** (full-stack + integrations).
-
----
 ## Featured Projects
 
-### F1 Dash
-**Full-stack F1 analytics platform with an ML pipeline and reproducible data platform workflow.**  
-Repo: https://github.com/Shravan-Sulikeri/f1-dash
+### F1Dash — ML Race Prediction Pipeline
+> End-to-end data platform and ML system built on DuckDB, FastAPI, and React. Dec 2025 – Feb 2026.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
+[![GitHub](https://img.shields.io/badge/Repo-f1--dash-181717?style=flat&logo=github)](https://github.com/Shravan-Sulikeri/f1-dash)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-- Built a DuckDB warehouse and reproducible pipelines with **61 engineered features** for race predictions.
-- Implemented training, evaluation, and inference workflows for model-driven race insights.
-- Delivered a React UI for exploring races, drivers, and predictions.
-
----
-
-### SoundSwipe
-**Spotify-powered music discovery app with swipe UX and playlist integration.**  
-Repo: https://github.com/Shravan-Sulikeri/sound-swipe-app
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify%20API-1DB954?logo=spotify&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
-
-- Built an authenticated discovery loop with preview playback and playlist writes.
-- Designed backend flows for likes, personalization hooks, and playlist sync.
-- Focused on responsive UI and fast iteration.
+- Built a **Bronze-Silver-Gold DuckDB pipeline** across 221K+ lap records, cutting feature refresh latency by 45%
+- Engineered **61 ML-ready features** across weather, venue, and driver form blocks — trained 3 Random Forest models with **AUC 0.8907**
+- Deployed a **Dockerized FastAPI** serving live race predictions via React dashboard with sub-100ms inference latency
 
 ---
 
-### CareSight
-**AI-enabled healthcare analytics concept for readmission risk scoring and dashboards.**  
-Repo: (add link when public)
+### CareSight — Healthcare Analytics Platform
+> dbt-modeled star schemas, RAG pipeline, and Airflow-orchestrated ETL over 8M+ clinical records. Oct 2025 – Present.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat&logo=meta&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-- Designed the scoring workflow and dashboard-ready aggregates for monitoring.
-- Planned an end-to-end architecture for training, batch scoring, and operational reporting.
+- Modeled clinical datasets into **dbt star schemas on PostgreSQL**, improving downstream BI query performance by 35%
+- Built a **FAISS + FastAPI RAG pipeline** to analyze 8M+ unstructured clinical notes, lifting risk detection accuracy by 50%
+- Orchestrated partitioned **Airflow ETL pipelines** across 8M+ clinical records, cutting end-to-end pipeline latency by 40%
 
 ---
+
+### SoundSwipe — AI Music Discovery App
+> Spotify-integrated swipe UX with a Scikit-Learn recommendation engine and full CI/CD. Jan 2025 – May 2025.
+
+[![GitHub](https://img.shields.io/badge/Repo-sound--swipe--app-181717?style=flat&logo=github)](https://github.com/Shravan-Sulikeri/sound-swipe-app)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify%20API-1DB954?style=flat&logo=spotify&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+- Led a team of 5 engineers to ship a React + Node.js Spotify-integrated app, onboarding **100+ active test users** at launch
+- Engineered a **Scikit-Learn + Flask recommendation engine** trained on swipe patterns, cutting playlist curation time by 70%
+- Configured Render CI/CD with MongoDB-backed session storage, reducing production API failures by 25%
 
 ---
 
 ## Experience
 
-### Data Engineer, Varsinix (Aug 2025 – Present)
-- Standardized monorepo workflows and engineering conventions to improve onboarding speed and delivery consistency.
-- Built a reproducible evaluation pipeline for medical concept retrieval over large-scale samples, improving repeatability of Recall@K reporting.
-- Refactored embedding and vector search alignment logic in Python to reduce evaluation failures and improve retrieval stability.
-- Defined and implemented Bronze/Silver/Gold standards and naming conventions to strengthen lineage and reduce schema drift.
+**Junior Data Engineer** — Varsinix *(Healthcare AI Startup, Cary NC)* `Aug 2025 – Present`
+- Designed Python-based GCP ingestion pipelines to process **5M+ clinical notes** for entity extraction workflows, reducing preprocessing time by 30%
+- Implemented a **Bronze-Silver-Gold Medallion architecture on Azure** to standardize ELT transformations across clinical data sources, reducing schema drift incidents by 40%
+- Optimized vector search and embedding generation workflows across **2M+ clinical records**, reducing failed indexing jobs by 30%
+- Developed containerized pipelines with automated validation and monitoring, improving Recall@K stability for risk modeling by 25%
 
-### Systems Engineer Intern, First Citizens Bank (May 2025 – Aug 2025)
-- Automated Nexthink remediation actions using PowerShell and Azure DevOps to reduce manual remediation time.
-- Built Power BI dashboards monitoring large endpoint fleets and surfacing experience metrics for stakeholders.
-- Authored NQL queries to correlate endpoint events and improve root cause analysis workflows.
+**Systems Engineer Intern** — First Citizens Bank *(Raleigh, NC)* `May 2025 – Aug 2025`
+- Built Power BI dashboards ingesting Nexthink telemetry from **20K+ enterprise endpoints**, improving incident detection coverage by 20%
+- Engineered NQL queries joining multi-source endpoint telemetry, reducing mean time to triage by 35%
+- Automated endpoint remediation workflows using Nexthink Remote Actions and scripting, improving device recovery time by 20%
+
+**Data & Security Analyst Intern** — Control Infotech Inc. *(Morrisville, NC)* `May 2023 – Aug 2023`
+- Refactored Python log processing pipelines for high-volume cloud security events, improving ingestion throughput by 30%
+- Automated vulnerability scan reporting pipelines, reducing manual analysis time for security analysts by 25%
+- Operationalized PowerShell and Bash pipelines consolidating Azure resource logs from 3+ monitoring systems
+- Authored Jira security runbooks for SOC incident response, cutting new analyst onboarding time by 40%
 
 ---
 
-## Core Tech Stack
+## Tech Stack
 
-### Data Engineering Focus
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FDEE21?logo=apachespark&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-29B5E8?logo=delta&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+**Languages**
 
-<details>
-  <summary><b>Additional tools and frameworks</b></summary>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-  ### Languages
-  ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+**Data Engineering**
 
-  ### Libraries and ML
-  ![pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-  ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-  ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-29B5E8?style=flat&logo=delta&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
-  ### Backend and Web
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-404D59?logo=express&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+**ML & Analytics**
 
-  ### Data Stores and Warehouses
-  ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-  ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?logo=microsoft-sql-server&logoColor=white)
-  ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4154?style=flat&logo=qdrant&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-  ### Cloud and DevOps
-  ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azure-devops&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
-  ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-FF0000?logo=oracle&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+**Cloud & DevOps**
 
-</details>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
 ## Certifications
 
-OCI Generative AI Professional, OCI Data Science Professional, Autonomous Database Cloud Certified Professional, Databricks Generative AI Fundamentals, Databricks Fundamentals
+| Certification | Issuer |
+|---|---|
+| OCI Generative AI Professional | Oracle |
+| OCI Data Science Professional | Oracle |
+| MySQL 8.0 Database Developer Oracle Certified Professional | Oracle |
+| MySQL Implementation Certified Associate | Oracle |
+| Databricks Generative AI Fundamentals | Databricks |
+| Databricks Fundamentals | Databricks |
 
 ---
 
-## Contact
+<div align="center">
 
-- LinkedIn: https://linkedin.com/in/shravansulikeri  
-- Email: mailto:shravan.sulikeri@gmail.com  
-- Portfolio: https://shravan-sulikeri.vercel.app
+*Building reliable, scalable, production-ready data and ML systems.*
 
----
-
-## GitHub Overview
-
-<p align="center">
-  <a href="https://github.com/Shravan-Sulikeri">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shravan-Sulikeri&theme=nord_dark" alt="GitHub Profile Summary" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shravan-Sulikeri">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shravan-Sulikeri&theme=nord_dark" alt="Repos per Language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shravan-Sulikeri&theme=nord_dark" alt="Most Commit Language" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shravan-Sulikeri">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shravan-Sulikeri&theme=nord_dark" alt="GitHub Stats" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shravan-Sulikeri&theme=nord_dark&utcOffset=-5" alt="Commits by Time (UTC-5)" />
-  </a>
-</p>
-
----
-
-Turning raw data into reliable, scalable, and production-ready ML systems.
+</div>
